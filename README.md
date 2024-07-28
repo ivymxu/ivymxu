@@ -1,9 +1,11 @@
-<h1 align="center">👋 Hi, I'm Ivy!</h1>
-<h3 align="center">Management Engineering @ University of Waterloo</h3>
+<h1 align="center">Hi, I'm Ivy!</h1>
+<h3 align="center"></h3>
+
+- 👩🏻‍💻 Studying Management Engineering at the University of Waterloo
 
 - 👀 Interested in utilizing data science and machine learning to drive innovative solutions in sustainable development
 
-- 🌱 I’m currently learning C, HTML, and advancing my skills in Python and SQL
+- 🌱 Currently learning C, HTML, and advancing my skills in Python and SQL
 
 - 🚀 Striving to become a generalist and develop a strong breadth of knowledge and experience
 
