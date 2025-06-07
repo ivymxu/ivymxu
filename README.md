@@ -5,7 +5,7 @@
 
 - 👀 Interested in utilizing data science and machine learning to drive innovative solutions in sustainable development
 
-- 🌱 Currently learning C, HTML, React, and advancing my skills in Python and SQL
+- 🌱 Currently learning C and Java and advancing my skills in Python, JavaScript, and SQL
 
 - 🚀 Striving to become a generalist and develop a strong breadth of knowledge and experience
 
