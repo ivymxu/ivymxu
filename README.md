@@ -4,7 +4,7 @@
 
 - 👀 Passionate about building data-driven solutions that bridge software engineering, AI, and real-world impact, especially in areas like systems optimization and sustainability
 
-- 🚀 Driven to grow as a well-rounded technologist, blending software engineering, data science, and product thinking to create meaningful, measurable impact
+- 🚀 Driven to grow as a well-rounded technologist, blending software engineering, data science, and product thinking to create meaningful impact
 
 - 📫 Reach me at i8xu@uwaterloo.ca
 
