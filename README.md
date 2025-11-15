@@ -1,13 +1,10 @@
-<h1 align="center">Hi, I'm Ivy!</h1>
-<h3 align="center"></h3>
+<h2 align="left">Hi, I'm Ivy!</h2>
 
 - 👩🏻‍💻 Studying Management Engineering at the University of Waterloo
 
-- 👀 Interested in utilizing data science and machine learning to drive innovative solutions in sustainable development
+- 👀 Passionate about building data-driven solutions that bridge software engineering, AI, and real-world impact, especially in areas like systems optimization and sustainability
 
-- 🌱 Currently learning C and Java and advancing my skills in Python, JavaScript, and SQL
-
-- 🚀 Striving to become a generalist and develop a strong breadth of knowledge and experience
+- 🚀 Driven to grow as a well-rounded technologist, blending software engineering, data science, and product thinking to create meaningful, measurable impact
 
 - 📫 Reach me at i8xu@uwaterloo.ca
 
