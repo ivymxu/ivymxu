@@ -3,9 +3,9 @@
 - Management Engineering student at the University of Waterloo
 - Interested in building data-driven, scalable systems across software engineering and applied AI
 
-Side Quests:
-- Software Engineering Intern @ BitGo ([ivyxu124](https://github.com/ivyxu124))
-- Software Developer @ UW Blueprint
-- Software Engineer @ Global Spark
-- Supply Chain Intern @ PepsiCo
-- Compliance Audit Intern @ AER
+**Some of my past and current side quests:**
+- Software Engineering Intern @ [BitGo](https://bitgo.com/) ([ivyxu124](https://github.com/ivyxu124))
+- Software Developer @ [UW Blueprint](https://uwblueprint.org/)
+- Software Engineer @ [Global Spark](https://globalspark.world/)
+- Supply Chain Intern @ [PepsiCo](https://www.pepsico.com/)
+- Compliance Audit Intern @ [AER](https://www.aer.ca/)
