@@ -5,7 +5,7 @@
 
 **Some of my past and current side quests:**
 - Software Engineering Intern @ [BitGo](https://bitgo.com/) ([ivyxu124](https://github.com/ivyxu124))
-- Software Developer @ [UW Blueprint](https://uwblueprint.org/)
+- Project Developer @ [UW Blueprint](https://uwblueprint.org/)
 - Software Engineer @ [Global Spark](https://globalspark.world/)
 - Supply Chain Intern @ [PepsiCo](https://www.pepsico.com/)
 - Compliance Audit Intern @ [AER](https://www.aer.ca/)
